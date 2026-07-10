@@ -138,7 +138,7 @@ Streaming Platform
 <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://iptv.ycgyou.com">
+<a href="https://mtv.ycgyou.com">
 <img src="https://img.shields.io/badge/Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -154,6 +154,9 @@ IPTV Player
 
 <a href="https://github.com/YOUYCG/YouycgTv">
 <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://iptv.ycgyou.com">
+<img src="https://img.shields.io/badge/Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
