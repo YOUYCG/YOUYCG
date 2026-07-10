@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.ycgyou.com/banner.png" width="100%">
+<img src="https://file.ycgyou.com/file/1783702207080_banner.png" width="100%">
 
 # 👋 Hi, I'm YOUYCG
 
