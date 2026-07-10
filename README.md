@@ -73,14 +73,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
+
+<table>
+<tr>
+<td width="40%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUYCG&theme=tokyonight" />
+
+</td>
+<td width="60%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUYCG&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=YOUYCG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUYCG&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="100%" src="https://streak-stats.demolab.com?user=YOUYCG&theme=dark&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
