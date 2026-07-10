@@ -77,12 +77,12 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUYCG&theme=tokyonight" />
 
 </td>
-<td width="60%">
+<td width="50%">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUYCG&theme=tokyonight" />
 
