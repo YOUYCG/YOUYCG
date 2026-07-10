@@ -77,15 +77,11 @@
 
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats-one-bice.vercel.app/api?username=YOUYCG&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=YOUYCG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="165"
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YOUYCG&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUYCG&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -100,95 +96,54 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YOU
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%" align="center">
 
 ### 🤖 YOUAI
 
-AI Chat Platform powered by modern LLMs.
-
-**Tech Stack**
-
-`React` `TypeScript` `Gemini`
-
-<p>
-
-<a href="https://github.com/YOUYCG/YOUAI">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://ai.ycgyou.com">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-### 📺 YouTV
-
-Modern online video aggregation platform.
-
-**Tech Stack**
+AI Chat Platform
 
 `React` `TypeScript`
 
-<p>
+<a href="https://github.com/YOUYCG/YOUAI">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ai.ycgyou.com">
+<img src="https://img.shields.io/badge/Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 📺 YouTV
+
+Streaming Platform
+
+`React` `TypeScript`
 
 <a href="https://github.com/YOUYCG/YouTV">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://iptv.ycgyou.com">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</p>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td>
+<td width="33%" align="center">
 
 ### 📡 YouycgTv
 
-Lightweight IPTV Player.
-
-**Tech Stack**
+IPTV Player
 
 `TypeScript`
 
-<p>
-
 <a href="https://github.com/YOUYCG/YouycgTv">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
-
-</td>
-
-<td>
-
-### 🌤 YCG Weather
-
-WeChat Mini Program.
-
-**Tech Stack**
-
-`JavaScript`
-
-<p>
-
-<a href="https://github.com/YOUYCG/YCG-Weather">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
 
 </td>
 
@@ -196,43 +151,45 @@ WeChat Mini Program.
 
 <tr>
 
-<td>
+<td align="center">
 
-### 🍔 Eat
+### 🌤 YCG Weather
 
-Food Recommendation Platform.
+Mini Program
 
-**Tech Stack**
+`JavaScript`
 
-`Vue3` `Express`
-
-<p>
-
-<a href="https://github.com/YOUYCG/eat">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUYCG/YCG-Weather">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
-<td>
+<td align="center">
+
+### 🍔 Eat
+
+Food Platform
+
+`Vue3` `Express`
+
+<a href="https://github.com/YOUYCG/eat">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td align="center">
 
 ### 🖼 removebg-py
 
-AI Background Removal Tool.
-
-**Tech Stack**
+AI Background Removal
 
 `Python`
 
-<p>
-
 <a href="https://github.com/YOUYCG/removebg-py">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
