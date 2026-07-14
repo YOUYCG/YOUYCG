@@ -195,13 +195,13 @@ Food Platform
 
 <td align="center">
 
-### 🖼 removebg-py
+### 🖼 grok-registrar
 
-AI Background Removal
+grok auto register
 
 `Python`
 
-<a href="https://github.com/YOUYCG/removebg-py">
+<a href="https://github.com/YOUYCG/grok-registrar">
 <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
 </a>
 
